@@ -16,7 +16,7 @@ Black board
 ### AM2320 
 ### Relay
 ### HLK-PM03 PSU
-## PSU - Virtual GDN
+## PSU - Virtual GDN - "Floating ground section"
 ### Input +/- supply
 ### Output + 0 - supply
 ### Output regulated +5v GND (78L05)
