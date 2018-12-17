@@ -3,11 +3,16 @@ Black board
 
 # Mix project
 ## Wemos D1 mini - section 1
-### I2S connector
+### I2S connector 
+D1, D2
 ### AM2320 
+D1, D2
 ### Relay
+D3
 ### HLK-PM03 PSU
-### Pull down LED on D8
++3v PSU
+### Pull down LED
+D8
 ## ESP12S - Section 2
 ### AM2320 
 ### Relay
