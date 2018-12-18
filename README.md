@@ -1,6 +1,6 @@
 # KicadBerkerPower2
 Black board
-
+![3D](Kicad BerkerPower2a 3D.png)
 # Mix project
 ## Wemos D1 mini - section 1
 ### I2S connector 
