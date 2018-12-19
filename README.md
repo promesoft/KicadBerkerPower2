@@ -3,6 +3,7 @@ Black board
 
 ![Power](Kicad%20BerkerPower2a%203D.png)
 # Mix project
+The board consists of 5 separate sections that can be separated. On the backside its easy to see the different ground planes and where to cut the board if needed.
 ## Wemos D1 mini - section 1
 ![Section1](Kicad%20BerkerPower2%20Schematic%20-%20sect%201.png)
 ### I2S connector 
