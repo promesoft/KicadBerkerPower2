@@ -45,5 +45,7 @@ Programming via Rx/Tx (or preprogrammed)
 ### Input + 0 - supply
 ### Output + 0 - regulated supply (78xx and 79xx)
 
+
 #Cutout
-!()[Berker2.JPG]
+
+![](Berker2.JPG)
