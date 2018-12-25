@@ -44,3 +44,6 @@ Programming via Rx/Tx (or preprogrammed)
 ## PSU
 ### Input + 0 - supply
 ### Output + 0 - regulated supply (78xx and 79xx)
+
+#Cutout
+!()[Berker2.JPG]
