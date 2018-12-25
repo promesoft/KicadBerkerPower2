@@ -20,7 +20,10 @@ D2 - SDA
 ### Relay
 D3 
 ### HLK-PM03 PSU
-+3v PSU supply if mounted (bad footprint)
++3v PSU supply if mounted 
+Connector not suitable for 230V
+Protection: Varistor
+External Fuse
 ### Pull down LED
 D8
 ## ESP12S - Section 2
@@ -29,6 +32,8 @@ Section 2 is the smaller than section 1 but with most features of it.
 ### Relay
 ### HLK-PM03 PSU
 ## ESP12S - Section 3
+No reset or programming assistance (pulldn/up etc)
+Programming via Rx/Tx (or preprogrammed)
 ### AM2320 
 ### Relay
 ### HLK-PM03 PSU
