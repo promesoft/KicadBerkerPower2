@@ -12,13 +12,15 @@ There is one flaw with section 1 that should be addressed: The pins on the power
 
 ![Section1](Kicad%20BerkerPower2%20Schematic%20-%20sect%201.png)
 ### I2S connector 
-D1, D2
+D1 - SCL
+D2 - SDA
 ### AM2320 
-D1, D2
+D1 - SCL
+D2 - SDA
 ### Relay
-D3
+D3 
 ### HLK-PM03 PSU
-+3v PSU
++3v PSU supply if mounted (bad footprint)
 ### Pull down LED
 D8
 ## ESP12S - Section 2
