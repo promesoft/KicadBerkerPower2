@@ -20,14 +20,14 @@ D1 - SCL
 
 D2 - SDA
 ### Relay
-D3 
+D3 - Active high
 ### HLK-PM03 PSU
 +3v PSU supply if mounted 
 Connector not suitable for 230V
 Protection: Varistor
-External Fuse
+External Fuse needed
 ### Pull down LED
-D8
+D8 - active low
 ## ESP12S - Section 2
 Section 2 is the smaller than section 1 but with most features of it.
 ### AM2320 
