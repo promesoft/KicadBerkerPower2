@@ -13,9 +13,11 @@ There is one flaw with section 1 that should be addressed: The pins on the power
 ![Section1](Kicad%20BerkerPower2%20Schematic%20-%20sect%201.png)
 ### I2S connector 
 D1 - SCL
+
 D2 - SDA
 ### AM2320 
 D1 - SCL
+
 D2 - SDA
 ### Relay
 D3 
