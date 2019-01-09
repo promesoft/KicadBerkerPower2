@@ -6,9 +6,11 @@ Black board
 The board consists of 5 separate sections that can be separated. On the backside its easy to see the different ground planes and where to cut the board if needed.
 ## Status - Rev A Produced
 ### Issues and Notes
-The two ESP12 modules are difficult to program
-The Wemos D1 mini section should not be used for 230V but works nevertheless.
-The rest is fine.
+*The two ESP12 modules are difficult to program
+
+*The Wemos D1 mini section should not be used for 230V but works nevertheless.
+
+*The rest is fine.
 
 # Details
 ## Wemos D1 mini - section 1
