@@ -40,9 +40,15 @@ Programming via Rx/Tx (or preprogrammed)
 ### Relay
 ### HLK-PM03 PSU
 ## PSU - Virtual GDN - "Floating ground section"
+Sometimes you only have a single ended supply but need a positive and negative supply.
+This little board provides a low power balanced center that can be used as GND. So a +24 V single ended supply becomes a +/-12V supply.
+
 ### Input +/- supply
+eg +24Vin and a "GNDin"
 ### Output + 0 - supply
+becomes a +12V (same as +24in) GND and -12V (same as GNDin)
 ### Output regulated +5v GND (78L05)
+The +12Vout is fed to a low power regulator for 5V output
 ## PSU
 ### Input + 0 - supply
 ### Output + 0 - regulated supply (78xx and 79xx)
