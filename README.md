@@ -1,16 +1,25 @@
 # KicadBerkerPower2
 Black board
 
-![Power](Kicad%20BerkerPower2a%203D.png)
 # Mix project
 The board consists of 5 separate sections that can be separated. On the backside its easy to see the different ground planes and where to cut the board if needed.
+
+
 ## Status - Rev A Produced
+### Errata
+
 ### Issues and Notes
 *The two ESP12 modules are difficult to program
 
 *The Wemos D1 mini section should not be used for 230V but works nevertheless.
 
 *The rest is fine.
+
+## Physical Construction
+
+## Features
+
+![Power](Kicad%20BerkerPower2a%203D.png)
 
 # Details
 ## Wemos D1 mini - section 1
