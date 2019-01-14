@@ -9,11 +9,11 @@ The board consists of 5 separate sections that can be separated. On the backside
 ### Errata
 
 ### Issues and Notes
-*The two ESP12 modules are difficult to program
+ - The two ESP12 modules are difficult to program
 
-*The Wemos D1 mini section should not be used for 230V but works nevertheless.
+ - The Wemos D1 mini section should not be used for 230V but works nevertheless.
 
-*The rest is fine.
+ - The rest is fine.
 
 ## Physical Construction
 
