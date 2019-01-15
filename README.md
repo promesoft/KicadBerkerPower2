@@ -19,7 +19,7 @@ The board consists of 5 separate sections that can be separated. On the backside
 
 ## Features
 
-![Power](Kicad%20BerkerPower2a%203D.png)
+![Power](Kicad%20BerkerPower2-RevA-Top3D)
 
 # Details
 ## Wemos D1 mini - section 1
