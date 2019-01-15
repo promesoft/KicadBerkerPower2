@@ -7,7 +7,8 @@ The board consists of 5 separate sections that can be separated. On the backside
 
 ## Status - Rev A Produced 3 of 5 sections working
 ### Errata
-
+ * Copper goes under ESP12E modules - thereby eliminating the Wifi antenna...
+ 
 ### Issues and Notes
  - The two ESP12 modules are difficult to program
 
