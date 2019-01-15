@@ -5,7 +5,7 @@ Black board
 The board consists of 5 separate sections that can be separated. On the backside its easy to see the different ground planes and where to cut the board if needed.
 
 
-## Status - Rev A Produced
+## Status - Rev A Produced 3 of 5 sections working
 ### Errata
 
 ### Issues and Notes
