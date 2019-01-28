@@ -3279,20 +3279,10 @@
       (scale (xyz 0.3937 0.3937 0.3937))
       (rotate (xyz -90 0 0))
     )
-    (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/SLW-108-01-G-S.wrl
-      (offset (xyz 0 11.39999982878918 0))
-      (scale (xyz 0.3937 0.3937 0.3937))
-      (rotate (xyz -90 0 0))
-    )
-    (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
-      (offset (xyz 0 -11.39999982878918 7.299999890364999))
-      (scale (xyz 0.3937 0.3937 0.3937))
-      (rotate (xyz 90 0 0))
-    )
-    (model ${KIPRJMOD}/3dshapes/wemos_d1_mini.3dshapes/TSW-108-05-G-S.wrl
-      (offset (xyz 0 11.39999982878918 7.299999890364999))
-      (scale (xyz 0.3937 0.3937 0.3937))
-      (rotate (xyz 90 0 0))
+    (model C:/Users/anders/Documents/KiCad/Lib/aj_packages3d/grabcad/espressiv/WEMOS-D1-mini_step.STEP
+      (offset (xyz -18 -13 4))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 90 180 -90))
     )
   )
 
